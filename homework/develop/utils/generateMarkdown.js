@@ -22,7 +22,7 @@ const generateMarkdown = (data) => {
   ${data.license}
 
   ## Pictures
-  ![${data.pictureAlt}](${data.picture})`
+  ![${data.picture}](${data.pictureAlt})`
 ;
 }
 

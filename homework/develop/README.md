@@ -1,23 +1,23 @@
-# readmeGenerator
+# weatherDashboard
 
   ## Purpose
   
-  To create a README file based on information gathered by the user.
+  To pull weather API data to show a forecast of the weather.
 
   ## Installation
 
-  You need Inquirer and fs to install this application
+  You need OpenWeather to install this application
 
   ## Usage
 
-  Use 'node index.js' in the terminal in the 'develop' file folder and you will be prompted with questions about your application, input your answers and the application will give you back a README file with the given information
+  Type up any city you would like to get the forecast for and then click the search button. When you click it, the main card will show a more detailed forcast for the current day and below show summarized forecasts for the next 5 days
 
   ## Credits
 
   Graydon, Ronny, and my tutor Jon
 
   ## License
-  
+  weatherGenerator on start
 
   ## Pictures
-  ![undefined]()
+  ![undefined](https://i.imgur.com/7QwmYzJ.png)
